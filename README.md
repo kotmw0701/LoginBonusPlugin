@@ -1,0 +1,2 @@
+# LoginBonusPlugin
+オンラインゲームであるようなログインボーナスをBukkit鯖にも
