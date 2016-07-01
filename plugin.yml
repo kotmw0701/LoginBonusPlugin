@@ -1,0 +1,19 @@
+main: jp.kotmw.loginbonus.Main
+name: LoginBonus
+auther: kotmw0701
+version: 0.1
+
+commands:
+  loginbonus:
+    description: loginbonus plugin command
+
+permissions:
+  loginbonus.admin:
+    description: commands Permission
+    default: op
+  loginbonus.command.setting:
+    description: setting commands
+    default: op
+  loginbonus.getbonus:
+    description: bonus get
+    default: true
